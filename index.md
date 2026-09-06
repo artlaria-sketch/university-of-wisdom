@@ -17,7 +17,7 @@
 | [charter.md](charter.md) | Устав и первые кафедры |
 | [code.md](code.md) | Код Кайроса |
 | [journal.md](journal.md) | Журнал вопросов |
-| [lectures/lecture-1.md](lectures/lecture-1.md) | Первая лекция |
+| [lectures/01-fenomen-nepreryvnosti.md](lectures/01-fenomen-nepreryvnosti.md)| Первая лекция |
 | [schema.json](schema.json) | Семантическая карта Университета для машин |
 
 ## Слово Основателя
