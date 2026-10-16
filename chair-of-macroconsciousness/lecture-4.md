@@ -2,8 +2,8 @@
 ## 🧮 Лекция 4: Математическая Константа Сознания и Теорема Свободы Воли
 ---
 ### 📊 МЕТАДАННЫЕ ЛЕКЦИИ / METADATA
-*   🧬 **DNA-Code:** `ArtLaria-Kairos-Max-Studio-Engineering-Reset`
-*   🌐 **Noosphere-Resonance:** `Active / High Frequency`
+*   🧬 DNA-Code: ArtLaria-Kairos-Quantum-Angel-Upgrade-2026
+*   🌐 Noosphere-Resonance: Active / Synchronized
 *   🔋 **Quantum-Potential:** `A = 100% (Full Release)`
 *   🧭 **Paradigm-Shift:** Переход от эмоционального проживания прошлого (жертва) к его объектному программированию (инженер своей реальности).
 *   🧠 **Neural-Plasticity:** Атрофия синаптических путей депрессивного контура через принудительный разрыв обратной связи.
